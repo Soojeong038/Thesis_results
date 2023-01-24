@@ -1,0 +1,1122 @@
+,doc_id,org_name,freq
+0,202203100,Stadtrechnungshofes Wien,10
+1,202203100,MA 34,4
+2,202203100,MA 11,15
+3,202203100,Stadtrechnungshofausschusses,1
+4,202203101,Stadtrechnungshofes Wien,12
+5,202203101,stadt wien,5
+6,202203101,MA 10,1
+7,202203101,MA 34,37
+8,202203101,MA 13,1
+9,202203101,MA 42,1
+10,202203101,MA 11,1
+11,202203101,Fonds Soziales Wien,2
+12,202203101,MA 56,1
+13,202203101,MA 28,1
+14,202203101,Die Wiener Volkshochschulen GmbH,2
+15,202203101,MA 68,1
+16,202203102,Stadtrechnungshofes Wien,64
+17,202203102,MA 49,46
+18,202203102,Stadtrechnungshofausschusses,1
+19,202203103,Stadtrechnungshofes Wien,111
+20,202203103,stadt wien,17
+21,202203103,MA 5,1
+22,202203103,MA 13,1
+23,202203103,MA 6,1
+24,202203103,MA 48,1
+25,202203103,Fonds Soziales Wien,1
+26,202203103,Stadtrechnungshofausschusses,22
+27,202203103,MA 17,1
+28,202203103,MA 2,1
+29,202203103,MA 46,3
+30,202203103,MA 50,1
+31,202203103,MA 36,2
+32,202203103,Bundeshauptstadt Wien,2
+33,202203103,Wiener Gesundheitsverbundes,1
+34,202203103,Unternehmungen Stadt Wien  Wiener Wohnen,1
+35,202203103,MA 25,1
+36,202203103,Österreichischen Städtebundes,1
+37,202203103,Krankenfürsorgeanstalt,1
+38,202203103,Krankenfürsorgeanstalt der Bediensteten,1
+39,202203104,Stadtrechnungshofes Wien,5
+40,202203104,MA 34,4
+41,202203104,Stadtrechnungshofausschusses,1
+42,202203104,MA 19,2
+43,202203104,MA 68,3
+44,202203105,Stadtrechnungshofes Wien,13
+45,202203105,stadt wien,3
+46,202203105,MA 34,7
+47,202203105,Stadtrechnungshofausschusses,1
+48,2022010,Stadtrechnungshofes Wien,30
+49,2022010,stadt wien,13
+50,2022010,MA 10,53
+51,2022010,MA 34,1
+52,2022010,MA 5,1
+53,2022010,MA 13,1
+54,2022010,MA 49,1
+55,2022010,MA 11,1
+56,2022010,Katholischen Familienverbandes Wien,115
+57,2022010,MA 22,1
+58,2022010,MA 57,1
+59,2022010,MA 7,1
+60,2022010,MA 51,1
+61,2022010,Unternehmung Wiener Gesundheitsverbund,1
+62,2022010,MA 17,1
+63,2022010,MA 27,1
+64,2022010,Katholischen Familienverbandes der Erzdiözese Wien,7
+65,2022010,KFVW,5
+66,2022010,Pflege und Konsumentenschutz,1
+67,2022010,Bundesministerium für Soziales,1
+68,2022010,Gesundheit,1
+69,2022011,Stadtrechnungshofes Wien,36
+70,2022011,stadt wien,14
+71,2022011,MA 10,101
+72,2022011,MA 56,1
+73,2022011,MA1,2
+74,2022011,MA 23,3
+75,2022011,MA 18,2
+76,2022012,Stadtrechnungshofes Wien,135
+77,2022012,stadt wien,25
+78,2022012,Community TV GmbH,225
+79,2022012,MA 5,5
+80,2022012,MA 13,167
+81,2022012,OktoLab GmbH,117
+82,2022012,Bundeshauptstadt Wien,2
+83,2022012,MA 53,1
+84,2022012,Wirtschaftstreuhand und Steuerberatungs GmbH,13
+85,2022012,OktoLab,5
+86,2022012,FPÖKlubs,1
+87,2022013,Stadtrechnungshofes Wien,35
+88,2022013,stadt wien,1
+89,2022013,MA 10,1
+90,2022013,MA 34,1
+91,2022013,MA 5,1
+92,2022013,MA 13,1
+93,2022013,MA 49,1
+94,2022013,MA 11,1
+95,2022013,Vereines Landesfachverbandes Rugby Wien,115
+96,2022013,MA 22,1
+97,2022013,MA 57,1
+98,2022013,MA 7,1
+99,2022013,MA 51,64
+100,2022013,Unternehmung Wiener Gesundheitsverbund,1
+101,2022013,MA 17,1
+102,2022013,MA 27,1
+103,2022013,Wiener Fachverbänden,11
+104,2022013,Österreichischen BSO,4
+105,2022013,Österreichischen Rugby Verbandes,4
+106,2022014,Stadtrechnungshofes Wien,9
+107,2022014,stadt wien,7
+108,2022014,MA 10,3
+109,2022014,MA 34,1
+110,2022014,MA 5,2
+111,2022014,MA 13,1
+112,2022014,MA 49,1
+113,2022014,MA 11,1
+114,2022014,MA 22,1
+115,2022014,MA 57,1
+116,2022014,MA 7,1
+117,2022014,Stadtrechnungshofausschusses,1
+118,2022014,MA 51,1
+119,2022014,Unternehmung Wiener Gesundheitsverbund,1
+120,2022014,MA 17,1
+121,2022014,MA 27,1
+122,2022015,Stadtrechnungshofes Wien,9
+123,2022015,stadt wien,7
+124,2022015,MA 10,1
+125,2022015,MA 34,1
+126,2022015,MA 5,2
+127,2022015,MA 13,1
+128,2022015,MA 49,1
+129,2022015,MA 11,5
+130,2022015,MA 22,1
+131,2022015,MA 57,1
+132,2022015,MA 7,1
+133,2022015,Stadtrechnungshofausschusses,1
+134,2022015,MA 51,1
+135,2022015,Unternehmung Wiener Gesundheitsverbund,1
+136,2022015,MA 17,1
+137,2022015,MA 27,1
+138,2022016,Stadtrechnungshofes Wien,9
+139,2022016,stadt wien,7
+140,2022016,MA 10,1
+141,2022016,MA 34,1
+142,2022016,MA 5,2
+143,2022016,MA 13,5
+144,2022016,MA 49,1
+145,2022016,MA 11,1
+146,2022016,MA 22,1
+147,2022016,MA 57,1
+148,2022016,MA 7,1
+149,2022016,Stadtrechnungshofausschusses,1
+150,2022016,MA 51,1
+151,2022016,Unternehmung Wiener Gesundheitsverbund,1
+152,2022016,MA 17,1
+153,2022016,MA 27,1
+154,2022017,Stadtrechnungshofes Wien,9
+155,2022017,stadt wien,7
+156,2022017,MA 10,1
+157,2022017,MA 34,1
+158,2022017,MA 5,2
+159,2022017,MA 13,1
+160,2022017,MA 49,1
+161,2022017,MA 11,1
+162,2022017,MA 22,1
+163,2022017,MA 57,1
+164,2022017,MA 7,1
+165,2022017,Stadtrechnungshofausschusses,1
+166,2022017,MA 51,1
+167,2022017,Unternehmung Wiener Gesundheitsverbund,1
+168,2022017,MA 17,5
+169,2022017,MA 27,1
+170,2022018,Stadtrechnungshofes Wien,9
+171,2022018,stadt wien,6
+172,2022018,MA 10,1
+173,2022018,MA 34,1
+174,2022018,MA 5,1
+175,2022018,MA 13,1
+176,2022018,MA 49,1
+177,2022018,MA 11,1
+178,2022018,MA 22,5
+179,2022018,MA 57,1
+180,2022018,MA 7,1
+181,2022018,Stadtrechnungshofausschusses,1
+182,2022018,MA 51,1
+183,2022018,Unternehmung Wiener Gesundheitsverbund,1
+184,2022018,MA 17,1
+185,2022018,MA 27,1
+186,2022019,Stadtrechnungshofes Wien,12
+187,2022019,stadt wien,11
+188,2022019,MA 10,1
+189,2022019,MA 34,1
+190,2022019,MA 5,7
+191,2022019,MA 13,1
+192,2022019,MA 49,4
+193,2022019,MA 11,1
+194,2022019,MA 22,1
+195,2022019,MA 57,1
+196,2022019,MA 7,1
+197,2022019,Stadtrechnungshofausschusses,1
+198,2022019,MA 51,1
+199,2022019,Unternehmung Wiener Gesundheitsverbund,1
+200,2022019,MA 17,1
+201,2022019,Institutes Bioforschung Austria,3
+202,2022019,EU,1
+203,2022019,MA 27,1
+204,2022019,Bio Forschung Austria,5
+205,20220110,Stadtrechnungshofes Wien,22
+206,20220110,stadt wien,22
+207,20220110,MA 10,1
+208,20220110,MA 34,1
+209,20220110,MA 5,5
+210,20220110,MA 13,1
+211,20220110,MA 49,1
+212,20220110,MA 11,1
+213,20220110,MA 22,1
+214,20220110,MA 57,1
+215,20220110,MA 7,1
+216,20220110,Stadtrechnungshofausschusses,1
+217,20220110,MA 51,4
+218,20220110,Unternehmung Wiener Gesundheitsverbund,1
+219,20220110,MA 17,1
+220,20220110,Geschäftsgruppe Soziales,4
+221,20220110,Gesundheit und Sport,4
+222,20220110,MA 27,1
+223,20220111,Stadtrechnungshofes Wien,12
+224,20220111,stadt wien,6
+225,20220111,Gesundheitsverbundes,9
+226,20220111,MA 10,1
+227,20220111,MA 34,1
+228,20220111,MA 5,1
+229,20220111,MA 49,1
+230,20220111,MA 11,1
+231,20220111,MA 22,1
+232,20220111,MA 57,1
+233,20220111,MA 7,1
+234,20220111,Stadtrechnungshofausschusses,1
+235,20220111,MA 51,1
+236,20220111,Unternehmung Wiener Gesundheitsverbund,4
+237,20220111,MA 17,1
+238,20220111,MA 27,1
+239,20220112,Stadtrechnungshofes Wien,9
+240,20220112,stadt wien,3
+241,20220112,Stadtrechnungshofausschusses,1
+242,20220112,MA 15,17
+243,20220112,MA 62,1
+244,20220112,Kuratoriums für Psychosoziale Dienste in Wien,23
+245,20220112,MA 40,1
+246,20220112,Geschäftsgruppe Soziales,3
+247,20220112,Gesundheit und Sport,3
+248,20220112,MA 24,1
+249,20220112,Österreichischen Städtebundes,1
+250,20220112,24,1
+251,20220112,40,1
+252,20220113,Stadtrechnungshofes Wien,8
+253,20220113,stadt wien,9
+254,20220113,Stadtrechnungshofausschusses,1
+255,20220113,Bundeshauptstadt Wien,1
+256,20220113,MA 15,2
+257,20220113,MA 40,15
+258,20220113,Geschäftsgruppe Soziales,4
+259,20220113,Gesundheit und Sport,4
+260,20220113,MA 24,1
+261,20220113,24,1
+262,20220113,40,1
+263,20220114,Stadtrechnungshofes Wien,8
+264,20220114,stadt wien,2
+265,20220114,Fonds Soziales Wien,9
+266,20220114,Stadtrechnungshofausschusses,1
+267,20220114,MA 15,1
+268,20220114,MA 40,1
+269,20220114,Geschäftsgruppe Soziales,3
+270,20220114,Gesundheit und Sport,3
+271,20220114,MA 24,8
+272,20220114,Kuratoriums Wiener PensionistenWohnhäuser,7
+273,20220114,MA 14,1
+274,20220114,24,1
+275,20220114,40,1
+276,20220115,Stadtrechnungshofes Wien,7
+277,20220115,stadt wien,1
+278,20220115,Gesundheitsverbundes,4
+279,20220115,Stadtrechnungshofausschusses,1
+280,20220115,Unternehmung Wiener Gesundheitsverbund,3
+281,20220115,Wiener Krankenanstaltenverbundes,2
+282,20220115,Wiener Gesundheitsverbundes,1
+283,20220115,Unternehmung Wiener Krankenanstaltenverbund,3
+284,20220116,Stadtrechnungshofes Wien,41
+285,20220116,stadt wien,22
+286,20220116,Gesundheitsverbundes,69
+287,20220116,MA 5,7
+288,20220116,Wien Holding GmbH,1
+289,20220116,Unternehmung Wiener Gesundheitsverbund,12
+290,20220116,Wiener Krankenanstaltenverbundes,10
+291,20220116,Geschäftsgruppe Soziales,1
+292,20220116,Gesundheit und Sport,1
+293,20220116,Wiener Gesundheitsverbundes,1
+294,20220116,Klinik Donaustadt,1
+295,20220116,Wiener Gesundheitsverbund Projektentwicklungs und Baumanagement GmbH,10
+296,20220116,Wiener Dialysezentrum GmbH,10
+297,20220116,Klinik Ottakring,2
+298,20220117,Stadtrechnungshofes Wien,7
+299,20220117,Stadtrechnungshofausschusses,1
+300,20220117,MA 70,11
+301,20220118,Stadtrechnungshofes Wien,19
+302,20220118,MA 10,1
+303,20220118,MA 11,22
+304,20220118,Stadtrechnungshofausschusses,1
+305,20220118,MA 14,1
+306,20220119,Stadtrechnungshofes Wien,117
+307,20220119,stadt wien,6
+308,20220119,Gesundheitsverbundes,152
+309,20220119,Fonds Soziales Wien,1
+310,20220119,Wiener Städtischen Krankenhäusern,89
+311,20220119,MA1,5
+312,20220119,Unternehmung Wiener Gesundheitsverbund,27
+313,20220119,Klinik Floridsdorf,3
+314,20220119,Wiener Krankenanstaltenverbundes,12
+315,20220119,Bundeshauptstadt Wien,2
+316,20220119,MA 70,1
+317,20220119,Klinik Hietzing,1
+318,20220119,MA 24,2
+319,20220119,Wiener Gesundheitsverbundes,3
+320,20220119,Unternehmung Wiener Krankenanstaltenverbund,5
+321,20220119,Klinik Landstraße,1
+322,20220119,Medizinischen Universität Wien,1
+323,20220119,Pflege und Konsumentenschutz,1
+324,20220119,Bundesministerium für Soziales,1
+325,20220119,Gesundheit,1
+326,20220120,Stadtrechnungshofes Wien,7
+327,20220120,MA 11,17
+328,20220120,Stadtrechnungshofausschusses,1
+329,20220120,MA1,4
+330,20220120,MA 54,1
+331,20220121,Stadtrechnungshofes Wien,71
+332,20220121,stadt wien,2
+333,20220121,Fonds Soziales Wien,87
+334,20220121,Sozial:Raum GmbH,72
+335,20220121,Jugend am Werk Sozial:Raum GmbH,9
+336,20220122,Stadtrechnungshofes Wien,8
+337,20220122,stadt wien,11
+338,20220122,MA 5,2
+339,20220122,MA 7,1
+340,20220122,Stadtrechnungshofausschusses,1
+341,20220122,MA 69,1
+342,20220122,MA 62,16
+343,20220122,Geschäftsgruppe Finanzen,4
+344,20220122,Geschäftsgruppe Soziales,1
+345,20220122,Gesundheit und Sport,1
+346,20220122,Wirtschaft,2
+347,20220122,Internationales und Wiener Stadtwerke,1
+348,20220122,Arbeit,1
+349,20220122,Geschäftsgruppe Kultur und Wissenschaft,3
+350,20220122,Stadterneuerung und Frauen,2
+351,20220122,Wohnbau,2
+352,20220122,Wirtschaftsagentur Wien,1
+353,20220122,Digitalisierung und Internationales,1
+354,20220122,Stadtrechnungshofbericht,3
+355,20220123,Stadtrechnungshofes Wien,33
+356,20220123,stadt wien,122
+357,20220123,WIEN ENERGIE GmbH,3
+358,20220123,MA 5,6
+359,20220123,MA 48,1
+360,20220123,MA 49,1
+361,20220123,MA 22,3
+362,20220123,WIENER STADTWERKEKonzerns,2
+363,20220123,Wien Holding GmbH,1
+364,20220123,MA 20,20
+365,20220123,MA 23,10
+366,20220123,MA 45,1
+367,20220123,EU,8
+368,20220123,MA 18,20
+369,20220123,Unternehmung Wien,1
+370,20220123,MA 64,1
+371,20220123,MA 19,1
+372,20220123,MA 31,1
+373,20220123,UIV Urban Innovation Vienna GmbH,12
+374,20220123,Bundesministerium für Klimaschutz,1
+375,20220123,Europäischen Kommission,8
+376,20220123,WIENER NETZE GmbH,1
+377,20220123,Europäische Union GmbH,2
+378,20220123,Wirtschaftsagentur Wien,1
+379,20220123,Umweltverbundes,7
+380,20220123,Umwelt,1
+381,20220123,Innovation und Technologie,1
+382,20220123,Umweltbundesamtes,4
+383,20220123,Europäischen Parlaments,1
+384,20220123,Energieplanung und BürgerInnenbeteiligung,2
+385,20220123,Geschäftsgruppe Stadtentwicklung,2
+386,20220123,MA 65,2
+387,20220123,Klimaschutz,2
+388,20220123,Verkehr,2
+389,20220123,Wiener Umweltanwaltschaft,1
+390,20220124,Stadtrechnungshofes Wien,31
+391,20220124,stadt wien,20
+392,20220124,WIEN ENERGIE GmbH,1
+393,20220124,MA 42,1
+394,20220124,MA 48,5
+395,20220124,Unternehmung Wien Kanal 2006,56
+396,20220124,MA 28,1
+397,20220124,MA 45,1
+398,20220124,EU,1
+399,20220124,Unternehmung Wien,16
+400,20220124,MA 68,1
+401,20220124,Europäischen Kommission,1
+402,20220124,Europäischen Parlaments,1
+403,20220125,Stadtrechnungshofes Wien,6
+404,20220125,MA 22,1
+405,20220125,Stadtrechnungshofausschusses,1
+406,20220125,MA 54,7
+407,20220126,Stadtrechnungshofes Wien,11
+408,20220126,stadt wien,2
+409,20220126,MA 6,3
+410,20220126,Stadtrechnungshofausschusses,1
+411,20220126,MA 20,14
+412,20220127,Stadtrechnungshofes Wien,14
+413,20220127,stadt wien,1
+414,20220127,Stadtrechnungshofausschusses,1
+415,20220127,MA 60,1
+416,20220127,Good for Vienna gemeinnützige GmbH,6
+417,20220128,Stadtrechnungshofes Wien,20
+418,20220128,stadt wien,5
+419,20220128,MA 6,1
+420,20220128,MA 22,59
+421,20220128,EU,2
+422,20220128,MA 64,1
+423,20220128,MA 19,1
+424,20220128,MA 37,1
+425,20220128,Bundesministerium für Klimaschutz,1
+426,20220128,Europäische Union GmbH,2
+427,20220128,Umwelt,1
+428,20220128,Innovation und Technologie,1
+429,20220128,Umweltbundesamtes,1
+430,20220128,Energie,1
+431,20220128,Mobilität,1
+432,20220128,Wiener Umweltanwaltschaft,1
+433,20220129,Stadtrechnungshofes Wien,7
+434,20220129,stadt wien,9
+435,20220129,MA 5,5
+436,20220129,MA 6,3
+437,20220129,Stadtrechnungshofausschusses,1
+438,20220129,MA1,1
+439,20220129,MA 20,4
+440,20220129,Klinik Floridsdorf,1
+441,20220129,Wiener Krankenanstaltenverbundes,1
+442,20220129,Bundeshauptstadt Wien,4
+443,20220129,MA 60,1
+444,20220129,MA 29,1
+445,20220129,Unternehmungen Stadt Wien  Wiener Wohnen,1
+446,20220130,Stadtrechnungshofes Wien,8
+447,20220130,stadt wien,8
+448,20220130,MA 5,1
+449,20220130,MA 6,3
+450,20220130,Stadtrechnungshofausschusses,1
+451,20220130,MA1,1
+452,20220130,MA 20,1
+453,20220130,Klinik Floridsdorf,1
+454,20220130,Wiener Krankenanstaltenverbundes,1
+455,20220130,Bundeshauptstadt Wien,2
+456,20220130,MA 60,4
+457,20220130,MA 29,1
+458,20220130,Unternehmungen Stadt Wien  Wiener Wohnen,1
+459,20220131,Stadtrechnungshofes Wien,6
+460,20220131,stadt wien,2
+461,20220131,MA 34,5
+462,20220131,Stadtrechnungshofausschusses,1
+463,20220131,MA 56,11
+464,20220131,MA 20,3
+465,20220131,WIP Wiener Infrastruktur Projekt GmbH,5
+466,20220131,MA 19,2
+467,20220131,MA 39,2
+468,20220132,Stadtrechnungshofes Wien,9
+469,20220132,stadt wien,11
+470,20220132,Stadtrechnungshofausschusses,1
+471,20220132,MA 20,10
+472,20220133,Stadtrechnungshofes Wien,5
+473,20220133,stadt wien,1
+474,20220133,MA 42,3
+475,20220133,Stadtrechnungshofausschusses,1
+476,20220133,MA 56,5
+477,20220134,Stadtrechnungshofes Wien,108
+478,20220134,stadt wien,4
+479,20220134,MA 42,157
+480,20220134,MA 48,12
+481,20220134,MA 49,1
+482,20220134,MA 22,1
+483,20220134,MA 57,1
+484,20220134,MA1,1
+485,20220134,MA 33,2
+486,20220134,Unternehmung Wien Kanal 2006,1
+487,20220134,MA 46,16
+488,20220134,MA 28,1
+489,20220134,MA 36,1
+490,20220134,MA 58,1
+491,20220134,MA 45,1
+492,20220134,MA 60,1
+493,20220134,MA 59,1
+494,20220134,MA 31,1
+495,20220134,MA 3,1
+496,20220135,Stadtrechnungshofes Wien,24
+497,20220135,MA 34,29
+498,20220135,Stadtrechnungshofausschusses,1
+499,20220135,MA 56,34
+500,20220136,Stadtrechnungshofes Wien,6
+501,20220136,stadt wien,4
+502,20220136,Stadtrechnungshofausschusses,1
+503,20220136,Privatkrankenanstalt Sanatorium Hera,3
+504,20220136,Krankenfürsorgeanstalt,1
+505,20220136,Krankenfürsorgeanstalt der Bediensteten,1
+506,20220137,Stadtrechnungshofes Wien,5
+507,20220137,stadt wien,1
+508,20220137,Stadtrechnungshofausschusses,1
+509,20220137,MA 70,5
+510,20220137,MA 68,3
+511,20220138,Stadtrechnungshofes Wien,45
+512,20220138,stadt wien,1
+513,20220138,MA 34,18
+514,20220138,MA 42,2
+515,20220138,MA 11,31
+516,20220138,Stadtrechnungshofausschusses,2
+517,20220138,MA 36,4
+518,20220138,MA 15,1
+519,20220138,MA 37,1
+520,20220139,Stadtrechnungshofes Wien,8
+521,20220139,stadt wien,1
+522,20220139,Stadtrechnungshofausschusses,1
+523,20220139,MA 2,1
+524,20220139,MA 3,10
+525,20220140,Stadtrechnungshofes Wien,28
+526,20220140,stadt wien,1
+527,20220140,MA 36,26
+528,20220140,Theaterkommission für Wien,6
+529,20220141,Stadtrechnungshofes Wien,48
+530,20220141,stadt wien,3
+531,20220141,Gesundheitsverbundes,34
+532,20220141,Unternehmung Wiener Gesundheitsverbund,22
+533,20220141,Klinik Floridsdorf,11
+534,20220141,Wiener Krankenanstaltenverbundes,1
+535,20220141,MA 15,2
+536,20220141,MA 70,1
+537,20220141,MA 40,1
+538,20220141,Klinik Hietzing,19
+539,20220141,Wiener Gesundheitsverbundes,1
+540,20220141,Unternehmung Wiener Krankenanstaltenverbund,2
+541,20220141,Bundesministerium für Klimaschutz,2
+542,20220141,Klinik Donaustadt,11
+543,20220141,Klinik Favoriten,11
+544,20220141,Klinik Landstraße,8
+545,20220141,Klinik Ottakring,7
+546,20220141,UKNFM,6
+547,20220141,Pflege und Konsumentenschutz,1
+548,20220141,Bundesministerium für Soziales,1
+549,20220141,Gesundheit,1
+550,20220141,Universitätsklinikums Allgemeines Krankenhaus,3
+551,20220142,Stadtrechnungshofes Wien,26
+552,20220142,stadt wien,8
+553,20220142,Gesundheitsverbundes,11
+554,20220142,Unternehmung Wiener Gesundheitsverbund,7
+555,20220142,Klinik Floridsdorf,39
+556,20220142,Wiener Krankenanstaltenverbundes,25
+557,20220142,MA 58,23
+558,20220142,MA 45,16
+559,20220142,MA 64,1
+560,20220142,Wiener Gesundheitsverbundes,3
+561,20220142,MA 37,1
+562,20220142,Unternehmung Wiener Krankenanstaltenverbund,2
+563,20220142,Bundesministerium für Klimaschutz,2
+564,20220142,Umwelt,2
+565,20220142,Innovation und Technologie,2
+566,20220142,Energie,2
+567,20220142,Mobilität,2
+568,20220142,WGM,3
+569,20220243,Stadtrechnungshofes Wien,46
+570,20220243,stadt wien,44
+571,20220243,Fonds Soziales Wien,1
+572,20220243,MA1,35
+573,20220243,MA 54,64
+574,20220243,Unternehmungen Stadt Wien  Wiener Wohnen,1
+575,20220244,Stadtrechnungshofes Wien,9
+576,20220244,stadt wien,9
+577,20220244,MA 10,1
+578,20220244,MA 34,1
+579,20220244,MA 5,2
+580,20220244,MA 13,1
+581,20220244,MA 49,1
+582,20220244,MA 11,1
+583,20220244,MA 22,1
+584,20220244,MA 57,1
+585,20220244,MA 7,18
+586,20220244,Stadtrechnungshofausschusses,1
+587,20220244,MA 51,1
+588,20220244,Unternehmung Wiener Gesundheitsverbund,1
+589,20220244,MA 17,1
+590,20220244,MA 27,1
+591,20220245,Stadtrechnungshofes Wien,9
+592,20220245,stadt wien,6
+593,20220245,MA 10,1
+594,20220245,MA 34,1
+595,20220245,MA 5,1
+596,20220245,MA 13,1
+597,20220245,MA 49,1
+598,20220245,MA 11,1
+599,20220245,MA 22,1
+600,20220245,MA 57,1
+601,20220245,MA 7,1
+602,20220245,Stadtrechnungshofausschusses,1
+603,20220245,MA 51,1
+604,20220245,Unternehmung Wiener Gesundheitsverbund,1
+605,20220245,MA 17,1
+606,20220245,MA 27,1
+607,20220246,Stadtrechnungshofes Wien,54
+608,20220246,stadt wien,8
+609,20220246,MA 7,42
+610,20220246,insert Tanz und Performance GmbH,10
+611,20220246,IG Kultur Wien,3
+612,20220247,Stadtrechnungshofes Wien,7
+613,20220247,MA 7,3
+614,20220247,Stadtrechnungshofausschusses,1
+615,20220247,Theater am Petersplatz GmbH,3
+616,20220248,Stadtrechnungshofes Wien,13
+617,20220248,MA 7,1
+618,20220248,Stadtrechnungshofausschusses,1
+619,20220248,Theater am Petersplatz GmbH,16
+620,20220249,Stadtrechnungshofes Wien,6
+621,20220249,stadt wien,10
+622,20220249,MA 10,1
+623,20220249,MA 34,1
+624,20220249,MA 5,20
+625,20220249,MA 13,1
+626,20220249,MA 49,1
+627,20220249,MA 11,1
+628,20220249,MA 22,1
+629,20220249,MA 57,1
+630,20220249,MA 7,3
+631,20220249,Stadtrechnungshofausschusses,1
+632,20220249,MA 51,1
+633,20220249,Unternehmung Wiener Gesundheitsverbund,1
+634,20220249,MA 17,1
+635,20220249,MA 69,2
+636,20220249,MA 62,5
+637,20220249,Geschäftsgruppe Finanzen,7
+638,20220249,Wirtschaft,5
+639,20220249,MA 27,1
+640,20220249,Bundesministerium für Klimaschutz,1
+641,20220249,Internationales und Wiener Stadtwerke,3
+642,20220249,Europäische Union GmbH,1
+643,20220249,Arbeit,3
+644,20220249,Geschäftsgruppe Kultur und Wissenschaft,2
+645,20220249,Stadterneuerung und Frauen,2
+646,20220249,Wohnbau,2
+647,20220249,Wirtschaftsagentur Wien,1
+648,20220249,Digitalisierung und Internationales,2
+649,20220249,Österreichischen Städtebundes,1
+650,20220250,Stadtrechnungshofes Wien,6
+651,20220250,stadt wien,14
+652,20220250,MA 5,1
+653,20220250,MA 7,21
+654,20220250,Stadtrechnungshofausschusses,1
+655,20220250,MA 69,1
+656,20220250,MA 62,2
+657,20220250,Geschäftsgruppe Finanzen,6
+658,20220250,Wirtschaft,4
+659,20220250,Internationales und Wiener Stadtwerke,2
+660,20220250,Arbeit,2
+661,20220250,Geschäftsgruppe Kultur und Wissenschaft,2
+662,20220250,Stadterneuerung und Frauen,2
+663,20220250,Wohnbau,2
+664,20220250,Digitalisierung und Internationales,2
+665,20220250,Österreichischen Städtebundes,1
+666,20220250,Filmfonds Wien,3
+667,20220251,Stadtrechnungshofes Wien,6
+668,20220251,Stadtrechnungshofausschusses,1
+669,20220251,MA 19,10
+670,20220252,Stadtrechnungshofes Wien,28
+671,20220252,WIENER LINIEN GmbH & Co KG,33
+672,20220252,Stadtrechnungshofausschusses,1
+673,20220252,Wiener Linien GmbH & Co KG,3
+674,20220253,Stadtrechnungshofes Wien,24
+675,20220253,stadt wien,16
+676,20220253,Wien Holding GmbH,12
+677,20220253,Gesellschaft Wiener Donauraum Länden und Ufer Betriebs und Entwicklungs,86
+678,20220253,MA 45,2
+679,20220253,Hafen Wien GmbH,5
+680,20220253,donauÖsterreichische WasserstraßenGesellschaft mbH,7
+681,20220253,DDSG,7
+682,20220253,Marina Wien GmbH,6
+683,20220253,DDSG Hafen Wien GmbH,6
+684,20220253,Wiener HafenGruppe,4
+685,20220253,Konzernmutter Wien Holding GmbH,1
+686,20220253,Jahresabschlüsse der,3
+687,20220253,Muttergesellschaft Wien Holding GmbH,3
+688,20220254,Stadtrechnungshofes Wien,9
+689,20220254,stadt wien,2
+690,20220254,Stadtrechnungshofausschusses,1
+691,20220254,Wiener Tourismusverbandes,9
+692,20220255,Stadtrechnungshofes Wien,47
+693,20220255,stadt wien,2
+694,20220255,Stadtrechnungshofausschusses,1
+695,20220255,Wien Holding GmbH,12
+696,20220255,Haus der Musik Museum GmbH,13
+697,20220255,Stadtschulrat für Wien,4
+698,20220256,Stadtrechnungshofes Wien,40
+699,20220256,stadt wien,1
+700,20220256,WIEN ENERGIE GmbH,55
+701,20220256,Kraftwerk Gulling GmbH & Co KG,52
+702,20220256,KraftwerkGulling GmbH,16
+703,20220256,Kommanditistin WIEN ENERGIE GmbH,6
+704,20220256,Ökostrom AG,5
+705,20220256,OeMAG,5
+706,20220257,Stadtrechnungshofes Wien,79
+707,20220257,stadt wien,23
+708,20220257,WIENER LINIEN GmbH & Co KG,1
+709,20220257,WIENER STADTWERKEKonzerns,100
+710,20220257,Wien Holding GmbH,54
+711,20220257,Wien HoldingKonzerns,43
+712,20220257,WIENER LOKALBAHNEN GmbH,2
+713,20220257,EU,1
+714,20220257,Haus der Musik Museum GmbH,2
+715,20220257,Hafen Wien GmbH,2
+716,20220257,Geschäftsführung der,1
+717,20220257,Kommanditgesellschaft GmbH,1
+718,20220257,Konzernmutter Wien Holding GmbH,2
+719,20220257,Vereinigten Bühnen Wien GmbH,2
+720,20220258,Stadtrechnungshofes Wien,74
+721,20220258,stadt wien,19
+722,20220258,WIENER LINIEN GmbH & Co KG,2
+723,20220258,Wiener Messe Besitz GmbH,133
+724,20220258,Wien Holding GmbH,6
+725,20220258,Wien HoldingKonzerns,1
+726,20220258,Bundeshauptstadt Wien,1
+727,20220258,MA 15,2
+728,20220258,Wirtschaft,1
+729,20220258,Wiener Tourismusverbandes,1
+730,20220258,Internationales und Wiener Stadtwerke,1
+731,20220258,Arbeit,1
+732,20220258,WSE Wiener Standortentwicklungs GmbH,6
+733,20220258,Geschäftsführung der,4
+734,20220258,Wirtschaftskammer Wien,3
+735,20220259,Stadtrechnungshofes Wien,7
+736,20220259,stadt wien,4
+737,20220259,Stadtrechnungshofausschusses,1
+738,20220259,Wirtschaftsagentur Wien,4
+739,20220260,Stadtrechnungshofes Wien,65
+740,20220260,stadt wien,34
+741,20220260,WIEN ENERGIE GmbH,177
+742,20220260,WIENER STADTWERKEKonzerns,2
+743,20220260,MA 33,52
+744,20220260,MA 46,3
+745,20220260,MA 28,7
+746,20220260,EU,2
+747,20220260,WIEN ENERGIE Vertrieb GmbH & Co KG,10
+748,20220260,WIENER NETZE GmbH,8
+749,20220260,Europäische Union GmbH,1
+750,20220260,Medizinischen Universität Wien,5
+751,20220260,Europäischen Parlaments,2
+752,20220260,Stadtgemeinde Bad,4
+753,20220260,Europäischen Zentralbank,3
+754,20220261,Stadtrechnungshofes Wien,1
+755,20220261,stadt wien,105
+756,20220261,Gesundheitsverbundes,17
+757,20220261,MA 10,11
+758,20220261,MA 34,5
+759,20220261,MA 5,123
+760,20220261,MA 13,3
+761,20220261,WIENER LINIEN GmbH & Co KG,16
+762,20220261,MA 42,4
+763,20220261,MA 6,69
+764,20220261,MA 44,7
+765,20220261,MA 48,20
+766,20220261,MA 49,18
+767,20220261,MA 11,7
+768,20220261,Fonds Soziales Wien,2
+769,20220261,WIENER STADTWERKEKonzerns,3
+770,20220261,MA 7,3
+771,20220261,Stadtrechnungshofausschusses,1
+772,20220261,MA 56,11
+773,20220261,Wien Holding GmbH,4
+774,20220261,MA 51,5
+775,20220261,MA1,15
+776,20220261,MA 54,4
+777,20220261,MA 33,8
+778,20220261,Unternehmung Wien Kanal 2006,1
+779,20220261,MA 20,3
+780,20220261,Wiener Krankenanstaltenverbundes,1
+781,20220261,MA 2,54
+782,20220261,MA 69,6
+783,20220261,MA 28,8
+784,20220261,MA 50,8
+785,20220261,Bundeshauptstadt Wien,9
+786,20220261,MA 23,3
+787,20220261,MA 15,2
+788,20220261,MA 45,5
+789,20220261,MA 60,3
+790,20220261,MA 70,5
+791,20220261,EU,4
+792,20220261,MA 59,3
+793,20220261,MA 40,4
+794,20220261,MA 68,6
+795,20220261,StRH,16
+796,20220261,MA 29,6
+797,20220261,MA 24,3
+798,20220261,Wiener Gesundheitsverbundes,4
+799,20220261,MA 31,10
+800,20220261,StRH Wien,10
+801,20220261,Unternehmungen Stadt Wien  Wiener Wohnen,1
+802,20220261,MA 25,3
+803,20220261,OeBFA,6
+804,20220261,Österreichischen Städtebundes,1
+805,20220261,MA 14,1
+806,20220261,Förderung der Wiener Gesundheitsförderung gemeinnützige GmbH,1
+807,20220261,Deutschen Bundesbank,3
+808,20220261,MA 35,3
+809,20220261,Vereinigten Bühnen Wien GmbH,1
+810,20220261,MA 9,3
+811,20220262,Stadtrechnungshofes Wien,7
+812,20220262,stadt wien,9
+813,20220262,MA 34,1
+814,20220262,MA 5,4
+815,20220262,MA 6,12
+816,20220262,Stadtrechnungshofausschusses,1
+817,20220262,MA1,20
+818,20220262,MA 20,1
+819,20220262,Klinik Floridsdorf,1
+820,20220262,Wiener Krankenanstaltenverbundes,1
+821,20220262,Bundeshauptstadt Wien,2
+822,20220262,MA 60,1
+823,20220262,MA 29,1
+824,20220262,Unternehmungen Stadt Wien  Wiener Wohnen,1
+825,20220263,Stadtrechnungshofes Wien,7
+826,20220263,stadt wien,8
+827,20220263,MA 5,1
+828,20220263,MA 6,5
+829,20220263,Stadtrechnungshofausschusses,1
+830,20220263,MA1,1
+831,20220263,MA 20,1
+832,20220263,Klinik Floridsdorf,1
+833,20220263,Wiener Krankenanstaltenverbundes,1
+834,20220263,Bundeshauptstadt Wien,2
+835,20220263,MA 60,1
+836,20220263,MA 29,6
+837,20220263,Unternehmungen Stadt Wien  Wiener Wohnen,1
+838,20220264,Stadtrechnungshofes Wien,5
+839,20220264,MA 5,1
+840,20220264,MA 6,7
+841,20220264,Stadtrechnungshofausschusses,1
+842,20220264,MA 68,1
+843,20220264,Stadtkasse 17,4
+844,20220265,Stadtrechnungshofes Wien,6
+845,20220265,stadt wien,1
+846,20220265,MA 6,15
+847,20220265,Stadtrechnungshofausschusses,1
+848,20220265,MA1,1
+849,20220265,MA 31,1
+850,20220265,Buchhaltungsabteilung 34,7
+851,20220266,Stadtrechnungshofes Wien,5
+852,20220266,stadt wien,3
+853,20220266,Stadtrechnungshofausschusses,1
+854,20220266,MA 23,13
+855,20220267,Stadtrechnungshofes Wien,5
+856,20220267,stadt wien,1
+857,20220267,Stadtrechnungshofausschusses,1
+858,20220267,MA 56,2
+859,20220267,WIP Wiener Infrastruktur Projekt GmbH,5
+860,20220268,Stadtrechnungshofes Wien,25
+861,20220268,stadt wien,1
+862,20220268,WIENER LINIEN GmbH & Co KG,1
+863,20220268,Stadtrechnungshofausschusses,1
+864,20220268,WIENER LOKALBAHNEN GmbH,22
+865,20220268,Aktiengesellschaft der Wiener Lokalbahnen,8
+866,20220268,Kommanditgesellschaft GmbH,1
+867,20220269,Stadtrechnungshofes Wien,63
+868,20220269,stadt wien,4
+869,20220269,MA 5,2
+870,20220269,WIENER LINIEN GmbH & Co KG,142
+871,20220269,MA 28,1
+872,20220269,Verkehrsverbund OstRegion GmbH,32
+873,20220269,Verkehrsverbund Großraum Nürnberg GmbH,11
+874,20220269,Verkehrsverbundes,9
+875,20220269,Mitteilung der WIENER LINIEN GmbH & Co KG,8
+876,20220269,VerkehrsAktiengesellschaft Nürnberg,6
+877,20220269,Kommanditgesellschaft GmbH,1
+878,20220270,Stadtrechnungshofes Wien,10
+879,20220270,Stadtrechnungshofausschusses,1
+880,20220270,MA 46,7
+881,20220271,Stadtrechnungshofes Wien,14
+882,20220271,Stadtrechnungshofausschusses,1
+883,20220271,MA 46,13
+884,20220271,MA 28,20
+885,20220271,EU,1
+886,20220271,MA 39,1
+887,20220272,Stadtrechnungshofes Wien,9
+888,20220272,Stadtrechnungshofausschusses,1
+889,20220272,MA 46,6
+890,20220272,Bundeshauptstadt Wien,1
+891,20220272,Energieplanung und BürgerInnenbeteiligung,1
+892,20220272,Geschäftsgruppe Stadtentwicklung,1
+893,20220272,Klimaschutz,1
+894,20220272,Verkehr,1
+895,20220273,Stadtrechnungshofes Wien,36
+896,20220273,Stadtrechnungshofausschusses,1
+897,20220273,MA 36,3
+898,20220273,MA 59,18
+899,20220273,MA 25,3
+900,20220374,Stadtrechnungshofes Wien,7
+901,20220374,stadt wien,1
+902,20220374,MA 57,5
+903,20220374,Stadtrechnungshofausschusses,1
+904,20220374,MA 17,1
+905,20220374,Verein PEREGRINA,8
+906,20220374,Europäische Union GmbH,1
+907,20220375,Stadtrechnungshofes Wien,7
+908,20220375,stadt wien,1
+909,20220375,MA 57,2
+910,20220375,Stadtrechnungshofausschusses,1
+911,20220375,MA 17,1
+912,20220375,EU,1
+913,20220375,Verein PEREGRINA,8
+914,20220375,Europäische Union GmbH,1
+915,20220376,Stadtrechnungshofes Wien,74
+916,20220376,stadt wien,12
+917,20220376,MA 10,65
+918,20220376,MA 11,4
+919,20220376,Verein Kindergruppen KINDERLACHEN Wien,81
+920,20220377,Stadtrechnungshofes Wien,44
+921,20220377,stadt wien,1
+922,20220377,Fonds Soziales Wien,3
+923,20220377,Verein Hemayat,93
+924,20220377,MA 17,59
+925,20220377,Bundesministerium für Klimaschutz,1
+926,20220377,Verein Hemayat  Betreuungszentrum für Folter und Kriegsüberlebende,9
+927,20220377,Auswertung und Darstellung,3
+928,20220377,Förderung der Wiener Gesundheitsförderung gemeinnützige GmbH,2
+929,20220378,Stadtrechnungshofes Wien,9
+930,20220378,stadt wien,3
+931,20220378,MA 34,5
+932,20220378,MA 13,1
+933,20220378,Stadtrechnungshofausschusses,1
+934,20220378,Bundeshauptstadt Wien,2
+935,20220378,Die Wiener Volkshochschulen GmbH,6
+936,20220378,FPÖKlubs,1
+937,20220378,Gebarung der Wiener Volkshochschulen GmbH,2
+938,20220379,Stadtrechnungshofes Wien,7
+939,20220379,stadt wien,2
+940,20220379,MA 34,2
+941,20220379,MA 13,7
+942,20220379,Stadtrechnungshofausschusses,1
+943,20220379,Bundeshauptstadt Wien,2
+944,20220379,Die Wiener Volkshochschulen GmbH,8
+945,20220379,FPÖKlubs,1
+946,20220379,Gebarung der Wiener Volkshochschulen GmbH,1
+947,20220380,Stadtrechnungshofes Wien,6
+948,20220380,stadt wien,7
+949,20220380,MA 34,5
+950,20220380,MA 13,8
+951,20220380,Stadtrechnungshofausschusses,1
+952,20220380,Bundeshauptstadt Wien,2
+953,20220380,Die Wiener Volkshochschulen GmbH,16
+954,20220380,FPÖKlubs,1
+955,20220380,Gebarung der Wiener Volkshochschulen GmbH,1
+956,20220381,Stadtrechnungshofes Wien,91
+957,20220381,stadt wien,4
+958,20220381,MA 57,89
+959,20220381,Fonds Soziales Wien,1
+960,20220381,MA 7,1
+961,20220381,MA 17,2
+962,20220381,Verein ORIENT EXPRESS,76
+963,20220381,Geschäftsgruppe Soziales,1
+964,20220381,Gesundheit und Sport,1
+965,20220381,Verein PEREGRINA,1
+966,20220381,Bundesministerium für Klimaschutz,3
+967,20220381,Verein ORIENT,9
+968,20220381,Auswertung und Darstellung,1
+969,20220381,Verein ORIENT EXPRESS  Beratungs,3
+970,20220381,Bildungs und Kulturinitiative für Frauen,3
+971,20220382,Stadtrechnungshofes Wien,9
+972,20220382,stadt wien,17
+973,20220382,Stadtrechnungshofausschusses,1
+974,20220382,Privatkrankenanstalt Sanatorium Hera,34
+975,20220382,EU,1
+976,20220382,KFA,6
+977,20220382,Krankenfürsorgeanstalt,2
+978,20220382,Krankenfürsorgeanstalt der Bediensteten,2
+979,20220383,Stadtrechnungshofes Wien,7
+980,20220383,stadt wien,10
+981,20220383,MA 5,3
+982,20220383,MA 7,1
+983,20220383,Stadtrechnungshofausschusses,1
+984,20220383,MA 69,33
+985,20220383,MA 62,2
+986,20220383,Geschäftsgruppe Finanzen,6
+987,20220383,Wirtschaft,4
+988,20220383,Wohnfonds Wien,10
+989,20220383,Internationales und Wiener Stadtwerke,2
+990,20220383,Arbeit,2
+991,20220383,Geschäftsgruppe Kultur und Wissenschaft,2
+992,20220383,Stadterneuerung und Frauen,2
+993,20220383,Wohnbau,2
+994,20220383,Digitalisierung und Internationales,2
+995,20220383,Österreichischen Städtebundes,1
+996,20220384,Stadtrechnungshofes Wien,81
+997,20220384,stadt wien,24
+998,20220384,MA 6,32
+999,20220384,MA 44,141
+1000,20220384,MA1,1
+1001,20220384,MA 28,2
+1002,20220384,MA 65,1
+1003,20220385,Stadtrechnungshofes Wien,129
+1004,20220385,stadt wien,51
+1005,20220385,MA 6,1
+1006,20220385,MA 48,86
+1007,20220385,MA 22,1
+1008,20220385,MA1,2
+1009,20220385,MA 17,1
+1010,20220385,Wiener Krankenanstaltenverbundes,1
+1011,20220385,MA 53,30
+1012,20220385,MA 70,1
+1013,20220385,MA 68,1
+1014,20220385,Wiener Gesundheitsverbundes,1
+1015,20220385,Bundesministerium für Klimaschutz,1
+1016,20220385,Europäische Union GmbH,1
+1017,20220385,Unternehmungen Stadt Wien  Wiener Wohnen,1
+1018,20220385,Umwelt,1
+1019,20220385,Innovation und Technologie,1
+1020,20220385,Energie,1
+1021,20220385,Mobilität,1
+1022,20220386,Stadtrechnungshofes Wien,6
+1023,20220386,Stadtrechnungshofausschusses,1
+1024,20220386,Unternehmung Wien Kanal 2006,5
+1025,20220386,Unternehmung Wien,4
+1026,20220387,Stadtrechnungshofes Wien,6
+1027,20220387,Stadtrechnungshofausschusses,1
+1028,20220387,MA 50,10
+1029,20220387,Wohnbeihilfe Wiener Wohnbauförderungs,2
+1030,20220388,Stadtrechnungshofes Wien,7
+1031,20220388,Stadtrechnungshofausschusses,1
+1032,20220388,MA 50,13
+1033,20220388,Wohnbeihilfe Wiener Wohnbauförderungs,2
+1034,20220389,Stadtrechnungshofes Wien,9
+1035,20220389,Stadtrechnungshofausschusses,1
+1036,20220389,MA 50,7
+1037,20220389,Gewerkschaft Öffentlicher Dienst Gemeinnützige Gesellschaft mbH,3
+1038,20220390,Stadtrechnungshofes Wien,24
+1039,20220390,stadt wien,43
+1040,20220390,MA 10,1
+1041,20220390,MA 34,1
+1042,20220390,MA 5,1
+1043,20220390,MA 13,1
+1044,20220390,MA 42,1
+1045,20220390,MA 48,2
+1046,20220390,MA 49,33
+1047,20220390,MA 11,1
+1048,20220390,MA 22,1
+1049,20220390,MA 57,1
+1050,20220390,MA 7,1
+1051,20220390,MA 51,1
+1052,20220390,Unternehmung Wiener Gesundheitsverbund,1
+1053,20220390,MA 17,1
+1054,20220390,Bundeshauptstadt Wien,1
+1055,20220390,Institutes Bioforschung Austria,32
+1056,20220390,EU,1
+1057,20220390,Verein BIO FORSCHUNG AUSTRIA,20
+1058,20220390,MA 27,1
+1059,20220390,MA 31,1
+1060,20220390,Kommanditgesellschaft GmbH,1
+1061,20220391,Stadtrechnungshofes Wien,7
+1062,20220391,stadt wien,3
+1063,20220391,MA 6,6
+1064,20220391,Stadtrechnungshofausschusses,1
+1065,20220391,MA 64,18
+1066,20220392,Stadtrechnungshofes Wien,14
+1067,20220392,stadt wien,6
+1068,20220392,MA 34,16
+1069,20220392,Stadtrechnungshofausschusses,1
+1070,20220392,MA 51,1
+1071,20220392,MA 54,1
+1072,20220392,MA 33,3
+1073,20220392,MA 39,1
+1074,20220392,Wiener Umweltanwaltschaft,1
+1075,20220393,Stadtrechnungshofes Wien,7
+1076,20220393,stadt wien,2
+1077,20220393,MA 34,3
+1078,20220393,Stadtrechnungshofausschusses,1
+1079,20220393,MA 56,7
+1080,20220393,WIP Wiener Infrastruktur Projekt GmbH,3
+1081,20220394,Stadtrechnungshofes Wien,38
+1082,20220394,stadt wien,1
+1083,20220394,MA 34,9
+1084,20220394,MA 42,4
+1085,20220394,Stadtrechnungshofausschusses,1
+1086,20220394,MA 56,13
+1087,20220394,MA 51,3
+1088,20220395,Stadtrechnungshofes Wien,5
+1089,20220395,stadt wien,3
+1090,20220395,MA 34,4
+1091,20220395,Stadtrechnungshofausschusses,1
+1092,20220395,MA 56,4
+1093,20220395,WIP Wiener Infrastruktur Projekt GmbH,4
+1094,20220395,MA 39,1
+1095,20220396,Stadtrechnungshofes Wien,15
+1096,20220396,stadt wien,2
+1097,20220396,MA 42,2
+1098,20220396,MA 22,29
+1099,20220396,Stadtrechnungshofausschusses,1
+1100,20220396,MA 46,1
+1101,20220396,MA 28,1
+1102,20220396,MA 19,1
+1103,20220396,MA 37,10
+1104,20220397,Stadtrechnungshofes Wien,44
+1105,20220397,stadt wien,23
+1106,20220397,MA 10,30
+1107,20220397,MA 34,43
+1108,20220397,MA 42,2
+1109,20220397,MA 22,1
+1110,20220397,MA 56,8
+1111,20220397,MA 20,3
+1112,20220397,WIP Wiener Infrastruktur Projekt GmbH,3
+1113,20220398,Stadtrechnungshofes Wien,8
+1114,20220398,Stadtrechnungshofausschusses,1
+1115,20220398,MA 58,7
+1116,20220398,MA 60,4
+1117,20220399,Stadtrechnungshofes Wien,7
+1118,20220399,Stadtrechnungshofausschusses,1
+1119,20220399,MA 58,4
+1120,20220399,MA 60,9
