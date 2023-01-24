@@ -1,5 +1,6 @@
 
-Relationship between docs
+[Relationship between docs]
+
 LOAD CSV WITH HEADERS FROM 'file:///doc_ent_freq_1.csv' AS row
 WITH row.id AS id, row.doc_id AS docid, row.org_name AS org, toInteger(row.freq) AS freq
 WHERE (docid = "2022011" or docid = "2022015" or docid = "2022014") and (org <> "stadt wien" and org <> "Stadtrechnungshofes Wien") 
